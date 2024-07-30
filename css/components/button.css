@@ -1,0 +1,21 @@
+.btn-green{
+  background-color: #6AD58B;
+  text-decoration: none;
+  color: white;
+  padding: 15px 25px;
+  border-radius: 40px;
+  font-weight: bold;
+  transition: 0.3s;
+  display: inline-block;
+}
+
+.btn-red{
+  background-color: #ea2e24;
+  text-decoration: none;
+  color: white;
+  padding: 15px 25px;
+  border-radius: 40px;
+  font-weight: bold;
+  transition: 0.3s;
+  display: inline-block;
+}
